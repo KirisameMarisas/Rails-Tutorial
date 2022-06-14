@@ -77,3 +77,5 @@ group :test do
   gem "webdrivers"
   gem "minitest-reporters"
 end
+
+gem "erb-formatter", "~> 0.3.0"
